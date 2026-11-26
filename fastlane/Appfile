@@ -1,0 +1,5 @@
+# Appfile — PLACEHOLDERS ONLY. Fill in after Paul enrolls in the
+# Apple Developer Program. Do not commit real team IDs or API keys.
+app_identifier("com.example.LeonidaCompanion") # TODO: Paul's real bundle id
+apple_id("REPLACE-WITH-PAULS-APPLE-ID")        # TODO: Paul's Apple ID
+team_id("REPLACE-WITH-TEAM-ID")               # TODO: Developer Program team id

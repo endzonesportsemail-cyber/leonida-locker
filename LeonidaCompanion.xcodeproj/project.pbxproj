@@ -1,0 +1,636 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+	01359F83D80137A2381446E8 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = E41B49135EC6D7FFCAFA71F0;
+	};
+	06341BAF506007421AA96825 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = B7D3A580C5E76CCD8E6BB552;
+	};
+	0CBA309E30A3CE279AAE913F /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = clothing_items_sample.json;
+		path = Data/clothing_items_sample.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	0D254E4EFDA43081D3006148 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      E567C1921025699BB3A473EB,
+      7FB572F1A21821AD4BF9764D,
+      E41B49135EC6D7FFCAFA71F0,
+  );
+		name = Services;
+		sourceTree = "<group>";
+	};
+	12E8BDE5B700D072752CCB04 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = GarageView.swift;
+		path = Views/GarageView.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	1538AA2B5ABD7524778B41E3 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 1ECF8241D8FE9012D827D0C7;
+	};
+	1811CE9D89BF8D955E069CA8 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = gun_stores.json;
+		path = Data/gun_stores.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	1BD6100B75807532D9556B36 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = weapons.json;
+		path = Data/weapons.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	1CE1C71CD1E9079143760EC3 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 7FB572F1A21821AD4BF9764D;
+	};
+	1ECF8241D8FE9012D827D0C7 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = LeonidaCompanionApp.swift;
+		path = App/LeonidaCompanionApp.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	1FE2DBFBEFDC9B86A0E34FEB /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = AboutView.swift;
+		path = Views/AboutView.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	20DA68D88C6610126CC35AFE /* PBXSourcesBuildPhase */ = {
+		isa = PBXSourcesBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+      1538AA2B5ABD7524778B41E3,
+      6DDD26A952A84620544F8D5C,
+      21D519A1D46E603889B8C087,
+      964F7D01398B075403CC4EA7,
+      B41DB90289F53562D30DDC01,
+      1CE1C71CD1E9079143760EC3,
+      01359F83D80137A2381446E8,
+      272D05847EFD2D789CF897D7,
+      B400F06744DAFB966A93D787,
+      A05F09150CFA91DD64214A92,
+      4EE7235236F9735115F90C77,
+      F1E5F5AEF3324548AD851A35,
+      777009019CC9D9DB9F335FB9,
+      BA1D07B98B936E90DB005D97,
+  );
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	21D519A1D46E603889B8C087 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 2BEC680DE843AFFAD6A9201F;
+	};
+	21F71E731F6DDDD5E47EB924 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = AppConfig.swift;
+		path = App/AppConfig.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	2662BDBAFBFAE6695539136B /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = StoreView.swift;
+		path = Views/StoreView.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	272D05847EFD2D789CF897D7 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 691F746FF0C1AF70522C1616;
+	};
+	2BB3FE5568D1C5B897A9F23C /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 1BD6100B75807532D9556B36;
+	};
+	2BEC680DE843AFFAD6A9201F /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = ContentView.swift;
+		path = App/ContentView.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	2F552E15B847CD177A542197 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 0CBA309E30A3CE279AAE913F;
+	};
+	34ED734A6BF0C1B6B761B576 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = clothing_stores.json;
+		path = Data/clothing_stores.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	3670831C61F9A4085D892478 /* PBXProject */ = {
+		isa = PBXProject;
+		attributes = {
+      BuildIndependentTargetsInParallel = 1;
+      LastUpgradeCheck = 1600;
+      TargetAttributes = {
+          97963F5C7F404E0AC789C990 = {
+              CreatedOnToolsVersion = 16.0;
+              LastSwiftMigration = 1600;
+          };
+      };
+  };
+		buildConfigurationList = 7589C34E35DD0111BEC4A9DB;
+		compatibilityVersion = Xcode 16.0;
+		developmentRegion = en;
+		hasScannedForEncodings = 0;
+		knownRegions = (
+      en,
+      Base,
+  );
+		mainGroup = 6ED43D965F6487137F561AF6;
+		productRefGroup = E387F19FE3A80BC1AA881BB4;
+		projectDirPath = "";
+		projectRoot = "";
+		targets = (
+      97963F5C7F404E0AC789C990,
+  );
+	};
+	3ABDFB89C5DCA534A2F27D35 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = E349221DA7930069CD846FA4;
+	};
+	43C745E5247F9A7646F9B924 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      1ECF8241D8FE9012D827D0C7,
+      21F71E731F6DDDD5E47EB924,
+      2BEC680DE843AFFAD6A9201F,
+  );
+		name = App;
+		sourceTree = "<group>";
+	};
+	43D259DF2EABD8BE1554ED37 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = MapView.swift;
+		path = Views/MapView.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	4EE7235236F9735115F90C77 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 12E8BDE5B700D072752CCB04;
+	};
+	50E094C8858F5CACF3EA1458 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = F289F903C73161608F46AE2C;
+	};
+	560F08CEC8ED67F2DF831F51 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = OnboardingView.swift;
+		path = Views/OnboardingView.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	5C6E68DF723F2B96488CE6A1 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      691F746FF0C1AF70522C1616,
+      43D259DF2EABD8BE1554ED37,
+      2662BDBAFBFAE6695539136B,
+      12E8BDE5B700D072752CCB04,
+      BD5EDE89A660A6E8C5AE6438,
+      1FE2DBFBEFDC9B86A0E34FEB,
+      560F08CEC8ED67F2DF831F51,
+  );
+		name = Views;
+		sourceTree = "<group>";
+	};
+	60CCF9866B2D0CE72DB1D300 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = F7FBB85995DA4028B715E800;
+	};
+	662F73A8240D95C582E8AF8A /* XCBuildConfiguration */ = {
+		isa = XCBuildConfiguration;
+		buildSettings = {
+      ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+      ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+      CODE_SIGN_STYLE = Automatic;
+      CURRENT_PROJECT_VERSION = 1;
+      DEBUG_INFORMATION_FORMAT = dwarf;
+      DEVELOPMENT_TEAM = "";
+      ENABLE_TESTABILITY = YES;
+      GCC_PREPROCESSOR_DEFINITIONS = (
+          "DEBUG=1",
+          $(inherited),
+      );
+      GENERATE_INFOPLIST_FILE = YES;
+      INFOPLIST_KEY_CFBundleDisplayName = Leonida Locker;
+      INFOPLIST_KEY_LSApplicationCategoryType = public.app-category.reference;
+      INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+      INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+      INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+      INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight;
+      IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+      MARKETING_VERSION = 1.0;
+      PRODUCT_BUNDLE_IDENTIFIER = com.example.LeonidaCompanion;
+      PRODUCT_NAME = Leonida Locker;
+      SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+      SWIFT_OPTIMIZATION_LEVEL = -Onone;
+      SWIFT_VERSION = 5.0;
+      TARGETED_DEVICE_FAMILY = 1;
+  };
+		name = Debug;
+	};
+	691F746FF0C1AF70522C1616 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = SharedViews.swift;
+		path = Views/SharedViews.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	6DDD26A952A84620544F8D5C /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 21F71E731F6DDDD5E47EB924;
+	};
+	6ED43D965F6487137F561AF6 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      8B85AC4830153E13DFE56232,
+      E387F19FE3A80BC1AA881BB4,
+  );
+		sourceTree = "<group>";
+	};
+	7310FBC174BC45507B7442C8 /* XCBuildConfiguration */ = {
+		isa = XCBuildConfiguration;
+		buildSettings = {
+      ALWAYS_SEARCH_USER_PATHS = NO;
+      CLANG_ANALYZER_NONNULL = YES;
+      CLANG_ENABLE_OBJC_ARC = YES;
+      CODE_SIGN_IDENTITY = -;
+      COPY_PHASE_STRIP = NO;
+      DEBUG_INFORMATION_FORMAT = dwarf;
+      GCC_C_LANGUAGE_STANDARD = gnu17;
+      GCC_DYNAMIC_NO_PIC = NO;
+      GCC_OPTIMIZATION_LEVEL = 0;
+      GCC_PREPROCESSOR_DEFINITIONS = (
+          "DEBUG=1",
+          $(inherited),
+      );
+      IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+      ONLY_ACTIVE_ARCH = YES;
+      SDKROOT = iphoneos;
+      SWIFT_VERSION = 5.0;
+  };
+		name = Debug;
+	};
+	7589C34E35DD0111BEC4A9DB /* XCConfigurationList */ = {
+		isa = XCConfigurationList;
+		buildConfigurations = (
+      7310FBC174BC45507B7442C8,
+      8383433F82A8D6763DA3F941,
+  );
+		defaultConfigurationIsVisible = 0;
+		defaultConfigurationName = Release;
+	};
+	777009019CC9D9DB9F335FB9 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 1FE2DBFBEFDC9B86A0E34FEB;
+	};
+	7AF7378CB796F9AB7FB39FD8 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 9190859ACE84349816434849;
+	};
+	7FB572F1A21821AD4BF9764D /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = FavoritesStore.swift;
+		path = Services/FavoritesStore.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	8172E32526E7C6406E9E2DAC /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = folder.assetcatalog;
+		name = Assets.xcassets;
+		path = Resources/Assets.xcassets;
+		sourceTree = SOURCE_ROOT;
+	};
+	8383433F82A8D6763DA3F941 /* XCBuildConfiguration */ = {
+		isa = XCBuildConfiguration;
+		buildSettings = {
+      ALWAYS_SEARCH_USER_PATHS = NO;
+      CLANG_ANALYZER_NONNULL = YES;
+      CLANG_ENABLE_OBJC_ARC = YES;
+      CODE_SIGN_IDENTITY = -;
+      COPY_PHASE_STRIP = NO;
+      DEBUG_INFORMATION_FORMAT = dwarf-with-dsym;
+      GCC_C_LANGUAGE_STANDARD = gnu17;
+      GCC_OPTIMIZATION_LEVEL = 0;
+      IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+      SDKROOT = iphoneos;
+      SWIFT_VERSION = 5.0;
+  };
+		name = Release;
+	};
+	8784FEFC06302782D7AC6534 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = vehicle_mods.json;
+		path = Data/vehicle_mods.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	8B85AC4830153E13DFE56232 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      43C745E5247F9A7646F9B924,
+      F92A85837C35702D509927B4,
+      0D254E4EFDA43081D3006148,
+      5C6E68DF723F2B96488CE6A1,
+      D413C32B550B8351EA97C960,
+      BEF2D2205783C2906DBCF5D9,
+  );
+		name = LeonidaCompanion;
+		path = LeonidaCompanion;
+		sourceTree = "<group>";
+	};
+	8E3AC72871D3D157C00C34DE /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 925C8959267970C45BBDB879;
+	};
+	9190859ACE84349816434849 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = footwear_stores.json;
+		path = Data/footwear_stores.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	925C8959267970C45BBDB879 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = map_pins.json;
+		path = Data/map_pins.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	936AE5A82368C4D9CA4E10F8 /* XCConfigurationList */ = {
+		isa = XCConfigurationList;
+		buildConfigurations = (
+      662F73A8240D95C582E8AF8A,
+      ABEF664E32A13901A6C79D1D,
+  );
+		defaultConfigurationIsVisible = 0;
+		defaultConfigurationName = Release;
+	};
+	964F7D01398B075403CC4EA7 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = FBFA5109F4193BA46114AF4D;
+	};
+	97963F5C7F404E0AC789C990 /* PBXNativeTarget */ = {
+		isa = PBXNativeTarget;
+		buildConfigurationList = 936AE5A82368C4D9CA4E10F8;
+		buildPhases = (
+      20DA68D88C6610126CC35AFE,
+      9D639149C74088C00C9DDD53,
+      EDB0ACF3074F9CB8288DB82C,
+  );
+		buildRules = (
+  );
+		dependencies = (
+  );
+		name = LeonidaCompanion;
+		productName = Leonida Locker;
+		productReference = B2DB64EC169328DC38C8DD4B;
+		productType = com.apple.product-type.application;
+	};
+	9D639149C74088C00C9DDD53 /* PBXFrameworksBuildPhase */ = {
+		isa = PBXFrameworksBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+  );
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	9E60B103641E50FA1B972E6F /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 8784FEFC06302782D7AC6534;
+	};
+	9EDD3DF13E92A2F97D07092E /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 34ED734A6BF0C1B6B761B576;
+	};
+	A05F09150CFA91DD64214A92 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 2662BDBAFBFAE6695539136B;
+	};
+	ABEF664E32A13901A6C79D1D /* XCBuildConfiguration */ = {
+		isa = XCBuildConfiguration;
+		buildSettings = {
+      ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+      ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+      CODE_SIGN_STYLE = Automatic;
+      CURRENT_PROJECT_VERSION = 1;
+      DEBUG_INFORMATION_FORMAT = dwarf-with-dsym;
+      DEVELOPMENT_TEAM = "";
+      GENERATE_INFOPLIST_FILE = YES;
+      INFOPLIST_KEY_CFBundleDisplayName = Leonida Locker;
+      INFOPLIST_KEY_LSApplicationCategoryType = public.app-category.reference;
+      INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+      INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+      INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+      INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight;
+      IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+      MARKETING_VERSION = 1.0;
+      PRODUCT_BUNDLE_IDENTIFIER = com.example.LeonidaCompanion;
+      PRODUCT_NAME = Leonida Locker;
+      SWIFT_COMPILATION_MODE = wholemodule;
+      SWIFT_OPTIMIZATION_LEVEL = -O;
+      SWIFT_VERSION = 5.0;
+      TARGETED_DEVICE_FAMILY = 1;
+  };
+		name = Release;
+	};
+	B080C13D3D431F06616A5CB5 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 8172E32526E7C6406E9E2DAC;
+	};
+	B2DB64EC169328DC38C8DD4B /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		explicitFileType = wrapper.application;
+		includeInIndex = 0;
+		name = Leonida Locker.app;
+		path = Leonida Locker.app;
+		sourceTree = BUILT_PRODUCTS_DIR;
+	};
+	B400F06744DAFB966A93D787 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 43D259DF2EABD8BE1554ED37;
+	};
+	B41DB90289F53562D30DDC01 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = E567C1921025699BB3A473EB;
+	};
+	B5D8CE16ACB97B4C89052612 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = salons.json;
+		path = Data/salons.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	B7D3A580C5E76CCD8E6BB552 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = PrivacyInfo.xcprivacy;
+		path = Resources/PrivacyInfo.xcprivacy;
+		sourceTree = SOURCE_ROOT;
+	};
+	BA1D07B98B936E90DB005D97 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 560F08CEC8ED67F2DF831F51;
+	};
+	BD5EDE89A660A6E8C5AE6438 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = SavedView.swift;
+		path = Views/SavedView.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	BEF2D2205783C2906DBCF5D9 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      8172E32526E7C6406E9E2DAC,
+      B7D3A580C5E76CCD8E6BB552,
+  );
+		name = Resources;
+		sourceTree = "<group>";
+	};
+	CE06C5996D712079933691BC /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = E5A793515958D77F0B57BB76;
+	};
+	D413C32B550B8351EA97C960 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      0CBA309E30A3CE279AAE913F,
+      34ED734A6BF0C1B6B761B576,
+      9190859ACE84349816434849,
+      1811CE9D89BF8D955E069CA8,
+      925C8959267970C45BBDB879,
+      E349221DA7930069CD846FA4,
+      B5D8CE16ACB97B4C89052612,
+      E5A793515958D77F0B57BB76,
+      8784FEFC06302782D7AC6534,
+      F289F903C73161608F46AE2C,
+      1BD6100B75807532D9556B36,
+  );
+		name = Data;
+		sourceTree = "<group>";
+	};
+	E22AB9AD55C279218FB732A3 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = B5D8CE16ACB97B4C89052612;
+	};
+	E349221DA7930069CD846FA4 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = mod_shops.json;
+		path = Data/mod_shops.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	E387F19FE3A80BC1AA881BB4 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      B2DB64EC169328DC38C8DD4B,
+  );
+		name = Products;
+		sourceTree = "<group>";
+	};
+	E41B49135EC6D7FFCAFA71F0 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = AdMobSlots.swift;
+		path = Services/AdMobSlots.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	E567C1921025699BB3A473EB /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = DataService.swift;
+		path = Services/DataService.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	E5A793515958D77F0B57BB76 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = tattoo_parlors.json;
+		path = Data/tattoo_parlors.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	EDB0ACF3074F9CB8288DB82C /* PBXResourcesBuildPhase */ = {
+		isa = PBXResourcesBuildPhase;
+		buildActionMask = 2147483647;
+		files = (
+      2F552E15B847CD177A542197,
+      9EDD3DF13E92A2F97D07092E,
+      7AF7378CB796F9AB7FB39FD8,
+      FAC94E2BD1669EBCDA98D701,
+      8E3AC72871D3D157C00C34DE,
+      3ABDFB89C5DCA534A2F27D35,
+      E22AB9AD55C279218FB732A3,
+      CE06C5996D712079933691BC,
+      9E60B103641E50FA1B972E6F,
+      50E094C8858F5CACF3EA1458,
+      2BB3FE5568D1C5B897A9F23C,
+      B080C13D3D431F06616A5CB5,
+      06341BAF506007421AA96825,
+      60CCF9866B2D0CE72DB1D300,
+  );
+		runOnlyForDeploymentPostprocessing = 0;
+	};
+	F1E5F5AEF3324548AD851A35 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = BD5EDE89A660A6E8C5AE6438;
+	};
+	F289F903C73161608F46AE2C /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.json;
+		name = vehicles.json;
+		path = Data/vehicles.json;
+		sourceTree = SOURCE_ROOT;
+	};
+	F7FBB85995DA4028B715E800 /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = file.storyboard;
+		name = LaunchScreen.storyboard;
+		path = Resources/LaunchScreen.storyboard;
+		sourceTree = SOURCE_ROOT;
+	};
+	F92A85837C35702D509927B4 /* PBXGroup */ = {
+		isa = PBXGroup;
+		children = (
+      FBFA5109F4193BA46114AF4D,
+  );
+		name = Models;
+		sourceTree = "<group>";
+	};
+	FAC94E2BD1669EBCDA98D701 /* PBXBuildFile */ = {
+		isa = PBXBuildFile;
+		fileRef = 1811CE9D89BF8D955E069CA8;
+	};
+	FBFA5109F4193BA46114AF4D /* PBXFileReference */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.swift;
+		name = Models.swift;
+		path = Models/Models.swift;
+		sourceTree = SOURCE_ROOT;
+	};
+	};
+	rootObject = 3670831C61F9A4085D892478 /* PBXProject */;
+}

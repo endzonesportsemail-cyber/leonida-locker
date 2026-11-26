@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "domain": "gun_stores",
+  "sourceNote": "24 gun stores / Ammu-Nation locations verified Nov 26, 2026. Tiers: 15 Standard, 6 Expanded, 2 Hunting, 1 Limited. Only Expanded stores sell machine guns, launchers and big snipers.",
+  "records": [
+    {
+      "id": "gunstore-01",
+      "name": "Barrage Gun Supply",
+      "category": "Gun Store",
+      "district": "Mariana",
+      "county": "Mariana",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-02",
+      "name": "Chuck's Tackle & Shot",
+      "category": "Gun Store",
+      "district": "Mariana",
+      "county": "Mariana",
+      "tier": "Limited",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "First gun store; Chapter 1 mission 'Gear Up'."
+    },
+    {
+      "id": "gunstore-03",
+      "name": "Guns Aplenty!",
+      "category": "Gun Store",
+      "district": "Mariana",
+      "county": "Mariana",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-04",
+      "name": "Richardson Hunting Supplies",
+      "category": "Gun Store",
+      "district": "Mariana",
+      "county": "Mariana",
+      "tier": "Hunting",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-05",
+      "name": "Woodhatch",
+      "category": "Gun Store",
+      "district": "Capri",
+      "county": "Mariana",
+      "tier": "Expanded",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Expanded tier: sells machine guns, launchers, big snipers."
+    },
+    {
+      "id": "gunstore-06",
+      "name": "Big Shots",
+      "category": "Gun Store",
+      "district": "Hamlet",
+      "county": "Vice-Dale",
+      "tier": "Expanded",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Expanded tier: sells machine guns, launchers, big snipers."
+    },
+    {
+      "id": "gunstore-07",
+      "name": "Hamlet Traders",
+      "category": "Gun Store",
+      "district": "Hamlet",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-08",
+      "name": "Phil's Ammu-Nation",
+      "category": "Gun Store",
+      "district": "Vice City",
+      "county": "Vice-Dale",
+      "tier": "Expanded",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Expanded tier: sells machine guns, launchers, big snipers."
+    },
+    {
+      "id": "gunstore-09",
+      "name": "Tequesta Guns & Ammo",
+      "category": "Gun Store",
+      "district": "Tequesta",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-10",
+      "name": "Vice City Firearms",
+      "category": "Gun Store",
+      "district": "Vice City",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-11",
+      "name": "Martez Empeños",
+      "category": "Gun Store",
+      "district": "Vice-Dale",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-12",
+      "name": "Jackson Firearms",
+      "category": "Gun Store",
+      "district": "Vice-Dale",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-13",
+      "name": "Vice City Gun & Pawn",
+      "category": "Gun Store",
+      "district": "Vice City",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-14",
+      "name": "Pawn & Gun",
+      "category": "Gun Store",
+      "district": "Crosstown",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-15",
+      "name": "Quickscope",
+      "category": "Gun Store",
+      "district": "Vice-Dale",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-16",
+      "name": "Black Eagle",
+      "category": "Gun Store",
+      "district": "Vice-Dale",
+      "county": "Vice-Dale",
+      "tier": "Expanded",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Expanded tier: sells machine guns, launchers, big snipers."
+    },
+    {
+      "id": "gunstore-17",
+      "name": "Zenon's Pawn Shop",
+      "category": "Gun Store",
+      "district": "Vice-Dale",
+      "county": "Vice-Dale",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-18",
+      "name": "Iron & Oak",
+      "category": "Gun Store",
+      "district": "Vice-Dale",
+      "county": "Vice-Dale",
+      "tier": "Expanded",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Expanded tier: sells machine guns, launchers, big snipers."
+    },
+    {
+      "id": "gunstore-19",
+      "name": "Prestige Firearms",
+      "category": "Gun Store",
+      "district": "Ocean Beach",
+      "county": "Vice-Dale",
+      "tier": "Expanded",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Expanded tier: sells machine guns, launchers, big snipers."
+    },
+    {
+      "id": "gunstore-20",
+      "name": "Tactical Outlet Guns",
+      "category": "Gun Store",
+      "district": "Leonard",
+      "county": "Leonard",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-21",
+      "name": "Pawn & Gun",
+      "category": "Gun Store",
+      "district": "Port Gellhorn",
+      "county": "Kelly",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-22",
+      "name": "Gellhorn Outfitters",
+      "category": "Gun Store",
+      "district": "Port Gellhorn",
+      "county": "Kelly",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-23",
+      "name": "Biff's Gun Supply",
+      "category": "Gun Store",
+      "district": "Port Gellhorn",
+      "county": "Kelly",
+      "tier": "Standard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "gunstore-24",
+      "name": "Rusty Willis Jr. Hunting Supplies",
+      "category": "Gun Store",
+      "district": "Lummox",
+      "county": "Lummox",
+      "tier": "Hunting",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    }
+  ]
+}

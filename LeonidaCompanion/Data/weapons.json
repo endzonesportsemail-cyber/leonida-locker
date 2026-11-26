@@ -1,0 +1,401 @@
+{
+  "version": 1,
+  "domain": "weapons",
+  "sourceNote": "53 base guns across 10 classes, 120+ unique variants. Class/price table is GUIDE-REPORTED (not Rockstar-published). Shotgun (11) and sniper (5) classes seed only the published price endpoints plus class counts; middle entries are not invented. Carry limit: 2 sidearms + 2 long guns.",
+  "classCounts": {
+    "Pistol": 8,
+    "Revolver": 4,
+    "SMG": 8,
+    "Shotgun": 11,
+    "Assault Rifle": 6,
+    "Sniper Rifle": 5,
+    "Machine Gun": 2,
+    "Launcher": 3,
+    "Melee": 3,
+    "Explosive": 3
+  },
+  "carryLimit": "2 sidearms + 2 long guns",
+  "records": [
+    {
+      "id": "weapon-001",
+      "name": "Scorpio Nipper .38",
+      "category": "Pistol",
+      "price": 550,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-002",
+      "name": "Girardi ES9",
+      "category": "Pistol",
+      "price": 700,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-003",
+      "name": "Klose K17",
+      "category": "Pistol",
+      "price": 975,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-004",
+      "name": "Duke 1922",
+      "category": "Pistol",
+      "price": 1050,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "FLAGGED DISCREPANCY: some sources list this as 'Duke 1992'. Seeded as 'Duke 1922' per primary source; alternate spelling unconfirmed."
+    },
+    {
+      "id": "weapon-005",
+      "name": "Girardi ES18",
+      "category": "Pistol",
+      "price": 1550,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-006",
+      "name": "Klose K17 MCD",
+      "category": "Pistol",
+      "price": 1700,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-007",
+      "name": "Schlamm DRX",
+      "category": "Pistol",
+      "price": 2100,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-008",
+      "name": "Fairview Kalinga .50",
+      "category": "Pistol",
+      "price": 3100,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-009",
+      "name": "Wortham WCR1",
+      "category": "Revolver",
+      "price": 600,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-010",
+      "name": "Hawk & Little .38",
+      "category": "Revolver",
+      "price": 1075,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-011",
+      "name": "Duke Mustang .357",
+      "category": "Revolver",
+      "price": 1800,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-012",
+      "name": "Scorpio Akulus",
+      "category": "Revolver",
+      "price": 3000,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-013",
+      "name": "Wortham W-10",
+      "category": "SMG",
+      "price": 825,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-014",
+      "name": "Zhang Wu Type 9",
+      "category": "SMG",
+      "price": 1100,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-015",
+      "name": "Deever Tech DSG",
+      "category": "SMG",
+      "price": 1350,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-016",
+      "name": "BZI Vatra",
+      "category": "SMG",
+      "price": 1200,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-017",
+      "name": "Schlamm DW-9",
+      "category": "SMG",
+      "price": 1750,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-018",
+      "name": "Vom Feuer VF5",
+      "category": "SMG",
+      "price": 2325,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-019",
+      "name": "VF5C",
+      "category": "SMG",
+      "price": 2600,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-020",
+      "name": "ADB PD-90",
+      "category": "SMG",
+      "price": 3350,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-021",
+      "name": "Fortune & Son Moreland 850",
+      "category": "Shotgun",
+      "price": 350,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Lowest-priced shotgun in the class (11 shotguns total). Middle 9 shotguns not yet published — not invented here."
+    },
+    {
+      "id": "weapon-022",
+      "name": "Goodwin Comshot 12",
+      "category": "Shotgun",
+      "price": 3825,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Highest-priced shotgun in the class (11 shotguns total). Middle 9 shotguns not yet published — not invented here."
+    },
+    {
+      "id": "weapon-023",
+      "name": "Kozlov KZ-59",
+      "category": "Assault Rifle",
+      "price": 1250,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-024",
+      "name": "Duke 556",
+      "category": "Assault Rifle",
+      "price": 1450,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-025",
+      "name": "Kozlov Hind",
+      "category": "Assault Rifle",
+      "price": 1700,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-026",
+      "name": "Hillinger Heathen",
+      "category": "Assault Rifle",
+      "price": 2450,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-027",
+      "name": "ADB FRA",
+      "category": "Assault Rifle",
+      "price": 2900,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-028",
+      "name": "Vom Feuer VF-G1",
+      "category": "Assault Rifle",
+      "price": 3700,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-029",
+      "name": "Fortune & Son Laird 350",
+      "category": "Sniper Rifle",
+      "price": 950,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Lowest-priced sniper rifle in the class (5 snipers total). Middle 3 snipers not yet published — not invented here."
+    },
+    {
+      "id": "weapon-030",
+      "name": "Fairview FF-50",
+      "category": "Sniper Rifle",
+      "price": 3975,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Highest-priced sniper rifle in the class (5 snipers total). Middle 3 snipers not yet published — not invented here."
+    },
+    {
+      "id": "weapon-031",
+      "name": "ADB M350",
+      "category": "Machine Gun",
+      "price": 10000,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Expanded-tier stores only."
+    },
+    {
+      "id": "weapon-032",
+      "name": "Goodwin LMG 6",
+      "category": "Machine Gun",
+      "price": 15250,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Expanded-tier stores only."
+    },
+    {
+      "id": "weapon-033",
+      "name": "Hillinger Boomer",
+      "category": "Launcher",
+      "price": 12000,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Expanded-tier stores only."
+    },
+    {
+      "id": "weapon-034",
+      "name": "Deever Tech GLR40",
+      "category": "Launcher",
+      "price": 15500,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Expanded-tier stores only."
+    },
+    {
+      "id": "weapon-035",
+      "name": "Hauners H-AT",
+      "category": "Launcher",
+      "price": 16000,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Expanded-tier stores only."
+    },
+    {
+      "id": "weapon-036",
+      "name": "Brass Knuckles",
+      "category": "Melee",
+      "price": 95,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Lowest-priced melee weapon."
+    },
+    {
+      "id": "weapon-037",
+      "name": "Switchblade",
+      "category": "Melee",
+      "price": 290,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-038",
+      "name": "Survival Knife",
+      "category": "Melee",
+      "price": 315,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Highest-priced melee weapon."
+    },
+    {
+      "id": "weapon-039",
+      "name": "Frag Grenade",
+      "category": "Explosive",
+      "price": 140,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-040",
+      "name": "Sticky Bomb",
+      "category": "Explosive",
+      "price": 185,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published"
+    },
+    {
+      "id": "weapon-041",
+      "name": "Molotov",
+      "category": "Explosive",
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Price unconfirmed — marked unknown, not estimated."
+    }
+  ]
+}

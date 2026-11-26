@@ -1,0 +1,68 @@
+name: iOS
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-json:
+    name: Validate bundled JSON
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate every bundled JSON file parses
+        run: |
+          for f in LeonidaCompanion/Data/*.json; do
+            echo "Checking $f"
+            python3 -m json.tool "$f" > /dev/null
+          done
+      - name: Check record counts and required fields
+        run: |
+          python3 - <<'PY'
+          import json, glob, sys
+          expected = {
+              "clothing_stores.json": 67,
+              "footwear_stores.json": 17,
+              "mod_shops.json": 14,
+              "gun_stores.json": 24,
+              "salons.json": 18,
+              "tattoo_parlors.json": 11,
+              "vehicles.json": 27,
+          }
+          failures = []
+          for path in sorted(glob.glob("LeonidaCompanion/Data/*.json")):
+              name = path.split("/")[-1]
+              data = json.load(open(path))
+              records = data["records"]
+              if name in expected and len(records) != expected[name]:
+                  failures.append(f"{name}: expected {expected[name]} records, got {len(records)}")
+              for rec in records:
+                  for field in ("id", "source", "verified"):
+                      if field not in rec:
+                          failures.append(f"{name}: record {rec.get('id', '?')} missing '{field}'")
+          if failures:
+              print("\n".join(failures))
+              sys.exit(1)
+          print("All JSON files valid; counts and required fields OK.")
+          PY
+
+  build:
+    name: Build (simulator, no signing)
+    runs-on: macos-latest
+    needs: validate-json
+    steps:
+      - uses: actions/checkout@v4
+      - name: Select latest Xcode
+        run: sudo xcode-select -s /Applications/Xcode.app
+      - name: Show Xcode version
+        run: xcodebuild -version
+      - name: Build for simulator
+        run: |
+          xcodebuild build \
+            -project LeonidaCompanion.xcodeproj \
+            -scheme LeonidaCompanion \
+            -destination 'generic/platform=iOS Simulator' \
+            -configuration Debug \
+            CODE_SIGNING_ALLOWED=NO

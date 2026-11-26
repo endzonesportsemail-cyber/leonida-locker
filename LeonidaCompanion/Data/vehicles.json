@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "domain": "vehicles",
+  "sourceNote": "In-game Progress Database: 557 vehicles = 277 base models + 280 Standout variants. Base: 157 cars (29 sedans, 26 muscle, 23 SUVs, 18 coupes, 17 pickups, 14 vans, 13 sports, 9 supercars, 8 off-road), 29 bikes, 28 watercraft, 16 aircraft, 47 service. 100% completion needs any 200/277 base models scanned via WAiNK. Full name list NOT published — only these 27 confirmed names are seeded; a 557-name list is NOT invented here.",
+  "totals": {
+    "total": 557,
+    "baseModels": 277,
+    "standoutVariants": 280,
+    "cars": 157,
+    "bikes": 29,
+    "watercraft": 28,
+    "aircraft": 16,
+    "service": 47,
+    "completionScansNeeded": 200
+  },
+  "records": [
+    {
+      "id": "vehicle-001",
+      "name": "Bravado Banshee",
+      "category": "Car",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-002",
+      "name": "Progen Emerus",
+      "category": "Car",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-003",
+      "name": "Truffade Thrax",
+      "category": "Car",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-004",
+      "name": "'65 Vapid Dominator",
+      "category": "Car",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-005",
+      "name": "Vapid Stanier G2 Taxi",
+      "category": "Car",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-006",
+      "name": "Nagasaki Carbon RS",
+      "category": "Bike",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-007",
+      "name": "Western Zombie Bobber",
+      "category": "Bike",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-008",
+      "name": "Maibatsu Sanchez",
+      "category": "Bike",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-009",
+      "name": "Tuff BMX",
+      "category": "Bike",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-010",
+      "name": "Hauners P-996 Lazer",
+      "category": "Aircraft",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-011",
+      "name": "Lapwing Mallard",
+      "category": "Aircraft",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-012",
+      "name": "Nagasaki Sea Sparrow",
+      "category": "Aircraft",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-013",
+      "name": "Airboat 09",
+      "category": "Watercraft",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-014",
+      "name": "Hauners Rhino Tank",
+      "category": "Service",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-015",
+      "name": "HVY Bulldozer",
+      "category": "Service",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-016",
+      "name": "MTL Pumper",
+      "category": "Service",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-017",
+      "name": "Interstate Ambulance",
+      "category": "Service",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-018",
+      "name": "Maibatsu Boomazoom",
+      "category": "Car",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-019",
+      "name": "Brimstone Golfer",
+      "category": "Car",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-020",
+      "name": "Speeder 700 GT",
+      "category": "Watercraft",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-021",
+      "name": "Inflatable Flamingo",
+      "category": "Watercraft",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Confirmed via post-story cheat-spawn list."
+    },
+    {
+      "id": "vehicle-022",
+      "name": "'95 Grotti Cheetah",
+      "category": "Car",
+      "edition": "Edition vehicle",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Edition vehicle (Ultimate/Deluxe edition content)."
+    },
+    {
+      "id": "vehicle-023",
+      "name": "'55 Vapid Stanier",
+      "category": "Car",
+      "edition": "Edition vehicle",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Edition vehicle (Ultimate/Deluxe edition content)."
+    },
+    {
+      "id": "vehicle-024",
+      "name": "'67 Vapid Dominator Buggy",
+      "category": "Car",
+      "edition": "Edition vehicle",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Edition vehicle (Ultimate/Deluxe edition content)."
+    },
+    {
+      "id": "vehicle-025",
+      "name": "Dinka Enduro",
+      "category": "Bike",
+      "edition": "Edition vehicle",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Edition vehicle (Ultimate/Deluxe edition content)."
+    },
+    {
+      "id": "vehicle-026",
+      "name": "Crest Kayak",
+      "category": "Watercraft",
+      "edition": "Edition vehicle",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Edition vehicle (Ultimate/Deluxe edition content)."
+    },
+    {
+      "id": "vehicle-027",
+      "name": "Shitzu Squalo",
+      "category": "Watercraft",
+      "edition": "Edition vehicle",
+      "verified": true,
+      "source": "Guide-reported (PowerPyx / KeenGamer / GTA6Gang); NOT Rockstar-published",
+      "notes": "Edition vehicle (Ultimate/Deluxe edition content)."
+    }
+  ]
+}

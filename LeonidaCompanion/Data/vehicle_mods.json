@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "domain": "vehicle_mods",
+  "sourceNote": "Mod categories verified Nov 26, 2026. Only the livery-related records link to specific shops; per-shop livery/mod catalogs are being cataloged and are NOT invented here.",
+  "categories": [
+    "Pro Builds",
+    "Cosmetics",
+    "Bodywork",
+    "Performance",
+    "Wheels",
+    "Interior"
+  ],
+  "records": [
+    {
+      "id": "vehiclemod-01",
+      "name": "Livery removal",
+      "category": "Cosmetics",
+      "modShopIds": [
+        "modshop-08"
+      ],
+      "notes": "Removal costs $50 at Vice Vinyl.",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    },
+    {
+      "id": "vehiclemod-02",
+      "name": "Vinyl wraps & liveries",
+      "category": "Cosmetics",
+      "modShopIds": [
+        "modshop-08",
+        "modshop-13"
+      ],
+      "notes": "Vice Vinyl and One-Eyed Willie's are the livery specialists. Per-shop livery catalogs are being cataloged.",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    },
+    {
+      "id": "vehiclemod-03",
+      "name": "Hand-painted liveries",
+      "category": "Cosmetics",
+      "modShopIds": [
+        "modshop-13"
+      ],
+      "notes": "One-Eyed Willie's Auto Shop (Ultimate Edition). Per-shop catalog being cataloged.",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    },
+    {
+      "id": "vehiclemod-04",
+      "name": "Nitrous",
+      "category": "Performance",
+      "modShopIds": [],
+      "notes": "Performance category includes nitrous. Which shops offer it per vehicle is being cataloged.",
+      "verified": false,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    },
+    {
+      "id": "vehiclemod-05",
+      "name": "Pro Build",
+      "category": "Pro Builds",
+      "modShopIds": [],
+      "notes": "Pro Builds category. Per-shop availability being cataloged.",
+      "verified": false,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    },
+    {
+      "id": "vehiclemod-06",
+      "name": "Bodywork",
+      "category": "Bodywork",
+      "modShopIds": [],
+      "notes": "Bodywork category. Per-shop availability being cataloged.",
+      "verified": false,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    },
+    {
+      "id": "vehiclemod-07",
+      "name": "Wheels",
+      "category": "Wheels",
+      "modShopIds": [],
+      "notes": "Wheels category. Per-shop availability being cataloged.",
+      "verified": false,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    },
+    {
+      "id": "vehiclemod-08",
+      "name": "Interior",
+      "category": "Interior",
+      "modShopIds": [],
+      "notes": "Interior category. Per-shop availability being cataloged.",
+      "verified": false,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "dataConfidence": "guide-reported"
+    }
+  ]
+}

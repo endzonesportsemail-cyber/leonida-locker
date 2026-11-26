@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "domain": "salons",
+  "sourceNote": "18 hair salons verified Nov 26, 2026. Beauty salons include makeup/nails for Lucia. Per-salon hairstyle catalogs are being cataloged — not invented here.",
+  "records": [
+    {
+      "id": "salon-01",
+      "name": "Kurt's Barber Shop",
+      "category": "Barber",
+      "district": "Hamlet",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-02",
+      "name": "Salón Pérez",
+      "category": "Barber",
+      "district": "Little Cuba",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-03",
+      "name": "Crosstown Cutz",
+      "category": "Barber",
+      "district": "Crosstown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-04",
+      "name": "Clip & Fade",
+      "category": "Barber",
+      "district": "Stockyard",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-05",
+      "name": "Lori Scott Hair & Beauty",
+      "category": "Unisex",
+      "district": "Watson Bay",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-06",
+      "name": "AU Courant",
+      "category": "Unisex",
+      "district": "Peacock Bay",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-07",
+      "name": "Bellissima Hair Salon",
+      "category": "Unisex",
+      "district": "Balsero",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-08",
+      "name": "Pearl House Hair Salon",
+      "category": "Unisex",
+      "district": "Port Gellhorn",
+      "county": "Kelly",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-09",
+      "name": "Captain Starlings Barber Shop",
+      "category": "Unisex",
+      "district": "Ambrosia",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "salon-10",
+      "name": "Barnacle Beauties",
+      "category": "Beauty",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-11",
+      "name": "Hair By Clair",
+      "category": "Beauty",
+      "district": "Capri",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-12",
+      "name": "Sara's Unisex Salon",
+      "category": "Beauty",
+      "district": "Hamlet",
+      "county": "Vice-Dale",
+      "edition": "Ultimate Edition",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Ultimate Edition. Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-13",
+      "name": "Salon Belle",
+      "category": "Beauty",
+      "district": "Rockridge",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-14",
+      "name": "Fabiola's Unisex Salon",
+      "category": "Beauty",
+      "district": "Rockridge",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-15",
+      "name": "Oomph!",
+      "category": "Beauty",
+      "district": "Washington Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-16",
+      "name": "Gabriel Wexler",
+      "category": "Beauty",
+      "district": "Ocean Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-17",
+      "name": "A Better You",
+      "category": "Beauty",
+      "district": "Belville",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    },
+    {
+      "id": "salon-18",
+      "name": "Onyx Salon",
+      "category": "Beauty",
+      "district": "Decor District",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Includes makeup/nails for Lucia."
+    }
+  ]
+}

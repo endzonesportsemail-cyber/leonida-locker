@@ -1,0 +1,30 @@
+# Fastlane scaffolding — STUBS ONLY.
+#
+# Nothing here is wired to real credentials, API keys, or an App Store
+# Connect account. Paul has NOT enrolled in the Apple Developer Program
+# ($99/yr) and no enrollment, submission, or purchase is to happen
+# from this file until he does. Before using these lanes:
+#   1. Enroll in the Apple Developer Program with Paul's Apple ID.
+#   2. Set the real bundle id + team in the Appfile.
+#   3. Create the App Store Connect record for the app.
+#   4. Run `bundle install` in this directory, then `bundle exec fastlane build`.
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Build for the iOS Simulator (no signing)"
+  lane :build do
+    build_app(
+      project: "LeonidaCompanion.xcodeproj",
+      scheme: "LeonidaCompanion",
+      destination: "generic/platform=iOS Simulator",
+      skip_codesigning: true,
+      skip_package_ipa: true
+    )
+  end
+
+  desc "STUB — upload a beta to TestFlight. Requires: Developer Program enrollment, App Store Connect record, API key. NOT wired up in v1."
+  lane :beta do
+    UI.user_error!("TestFlight lane is a stub: enroll in the Apple Developer Program, set the Appfile team/bundle id, and configure an App Store Connect API key first. See README.")
+  end
+end

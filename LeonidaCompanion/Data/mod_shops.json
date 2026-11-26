@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "domain": "mod_shops",
+  "sourceNote": "14 mod shops verified Nov 26, 2026. There is NO 'Los Santos Customs' in GTA VI. 12 Standard Edition, 2 Ultimate Edition only (Rideout Customs, One-Eyed Willie's Auto Shop).",
+  "records": [
+    {
+      "id": "modshop-01",
+      "name": "Coastal Auto Care",
+      "district": "SW of Key Lento",
+      "county": "Mariana",
+      "specialty": "Retro vehicles",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "First shop; Chapter 1 mission 'Just a Scratch'."
+    },
+    {
+      "id": "modshop-02",
+      "name": "Capri Classic",
+      "district": "Capri, south of Tortoise Lake",
+      "county": "Mariana",
+      "specialty": "Muscle cars",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-03",
+      "name": "Two Wheel Fury Motorsport",
+      "district": "west of Southside",
+      "county": "Vice-Dale",
+      "specialty": "Sports bikes",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-04",
+      "name": "Euroform Automotive",
+      "district": "Little Cuba",
+      "county": "Vice-Dale",
+      "specialty": "Luxury cars",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-05",
+      "name": "Vice Auto Customs",
+      "district": "SE Balsero",
+      "county": "Vice-Dale",
+      "specialty": "Tuner cars",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-06",
+      "name": "Lowballers Customs",
+      "district": "Balsero/Salton border",
+      "county": "Vice-Dale",
+      "specialty": "Lowriders",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-07",
+      "name": "Rideout Customs",
+      "district": "Crosstown",
+      "county": "Vice-Dale",
+      "specialty": "Donks",
+      "edition": "Ultimate Edition",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-08",
+      "name": "Vice Vinyl",
+      "district": "southern Stockyard",
+      "county": "Vice-Dale",
+      "specialty": "Vinyl wraps & liveries",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Livery removal $50. Also has a changing room. Livery specialist."
+    },
+    {
+      "id": "modshop-09",
+      "name": "Stockyard Speedshop",
+      "district": "northern Stockyard",
+      "county": "Vice-Dale",
+      "specialty": "Hot rods",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-10",
+      "name": "Whisler Motorsport",
+      "district": "Port Gellhorn",
+      "county": "Kelly",
+      "specialty": "Racing cars",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-11",
+      "name": "Dirt Merchants",
+      "district": "south of Port Gellhorn",
+      "county": "Kelly",
+      "specialty": "Dirt bikes",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-12",
+      "name": "Wasteland Off-Road",
+      "district": "north of Port Gellhorn",
+      "county": "Kelly",
+      "specialty": "Off-road vehicles",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "modshop-13",
+      "name": "One-Eyed Willie's Auto Shop",
+      "district": "northern Lake Leonida",
+      "county": "Leonard",
+      "specialty": "Off-road + hand-painted liveries",
+      "edition": "Ultimate Edition",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Livery specialist (hand-painted liveries)."
+    },
+    {
+      "id": "modshop-14",
+      "name": "Ledford Motorcycle Workshop",
+      "district": "near Grayson",
+      "county": "Lummox",
+      "specialty": "Choppers & classic American motorcycles",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    }
+  ]
+}

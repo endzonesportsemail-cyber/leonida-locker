@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "domain": "footwear_stores",
+  "sourceNote": "17 footwear stores verified Nov 26, 2026.",
+  "records": [
+    {
+      "id": "footwear-001",
+      "name": "Flip Flop House",
+      "category": "Footwear",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-002",
+      "name": "Callus",
+      "category": "Footwear",
+      "district": "Capri",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-003",
+      "name": "Callus",
+      "category": "Footwear",
+      "district": "Decor District",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-004",
+      "name": "Callus",
+      "category": "Footwear",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-005",
+      "name": "Callus",
+      "category": "Footwear",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-006",
+      "name": "Callus",
+      "category": "Footwear",
+      "district": "Waning Sands",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-007",
+      "name": "Podium Sports",
+      "category": "Footwear",
+      "district": "Southside",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-008",
+      "name": "Podium Sports",
+      "category": "Footwear",
+      "district": "Tequesta",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-009",
+      "name": "Podium Sports",
+      "category": "Footwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-010",
+      "name": "Podium Sports",
+      "category": "Footwear",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-011",
+      "name": "Podium Sports",
+      "category": "Footwear",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-012",
+      "name": "Podium Sports",
+      "category": "Footwear",
+      "district": "Waning Sands",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-013",
+      "name": "WHS",
+      "category": "Footwear",
+      "district": "Little Cuba",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-014",
+      "name": "WHS",
+      "category": "Footwear",
+      "district": "Downtown 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-015",
+      "name": "WHS",
+      "category": "Footwear",
+      "district": "Downtown 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-016",
+      "name": "WHS",
+      "category": "Footwear",
+      "district": "Ocean Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "footwear-017",
+      "name": "WHS",
+      "category": "Footwear",
+      "district": "Port Gellhorn",
+      "county": "Kelly",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    }
+  ]
+}

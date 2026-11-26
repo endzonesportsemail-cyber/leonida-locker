@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "domain": "tattoo_parlors",
+  "sourceNote": "11 tattoo parlors verified Nov 26, 2026. Tattoo price range found: $53–$14,700. Magazine tattoos via WAiNK scans (13 Jason / 15 Lucia / 17 shared) are still being cataloged — seeded as counts only, no invented designs.",
+  "priceRange": {
+    "low": 53,
+    "high": 14700
+  },
+  "magazineTattoos": {
+    "jason": 13,
+    "lucia": 15,
+    "shared": 17
+  },
+  "records": [
+    {
+      "id": "tattoo-01",
+      "name": "The Inked Mermaid",
+      "category": "American Traditional",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Open Chapter 1. Swallow ~$110, panther head ~$560."
+    },
+    {
+      "id": "tattoo-02",
+      "name": "Layin' Ink",
+      "category": "Black & Gray",
+      "district": "Hamlet",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-03",
+      "name": "Dominion Ink",
+      "category": "Anime",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-04",
+      "name": "Hyper Ink",
+      "category": "Illustrative",
+      "district": "Little Cuba",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-05",
+      "name": "Cross My Heart",
+      "category": "New School",
+      "district": "Crosstown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-06",
+      "name": "Inkomplete Tattoo Co.",
+      "category": "Old School",
+      "district": "Rockridge",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-07",
+      "name": "Twa Ponya Tattoo",
+      "category": "Neo-Traditional",
+      "district": "La Perle",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-08",
+      "name": "Electric Fang Tattoo",
+      "category": "New School",
+      "district": "Stockyard",
+      "county": "Vice-Dale",
+      "edition": "Ultimate Edition",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Ultimate Edition. 50+ FAILE designs."
+    },
+    {
+      "id": "tattoo-09",
+      "name": "Black Spot Tattoo",
+      "category": "Geometric & Blackwork",
+      "district": "Ocean Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-10",
+      "name": "Blood Sugar Tattoo",
+      "category": "Lettering",
+      "district": "Ambrosia",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    },
+    {
+      "id": "tattoo-11",
+      "name": "Freedom Tattoo",
+      "category": "Stick & Poke",
+      "district": "Port Gellhorn",
+      "county": "Kelly",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)"
+    }
+  ]
+}

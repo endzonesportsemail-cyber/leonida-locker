@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "domain": "clothing_items_sample",
+  "sourceNote": "Full per-item clothing catalogs do NOT exist yet (best available: NiaDB 275 priced pieces, Nov 24; The Games Wiki 168 entries covering only 3 Mariana stores — Key Lento Kahuna 68, Billie's 55, Flip Flop House 39). This file is a SCHEMA + small sample only; the rest is 'being cataloged'. Do not treat the sample as a complete catalog.",
+  "catalogStatus": "being-cataloged",
+  "catalogSources": [
+    "NiaDB (275 priced pieces, Nov 24, 2026)",
+    "The Games Wiki (168 entries, 3 Mariana stores)"
+  ],
+  "records": [
+    {
+      "id": "item-switchblade",
+      "name": "Switchblade",
+      "category": "Melee",
+      "price": 290,
+      "storeId": null,
+      "edition": null,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Confirmed priced example from Dexerto wiki (facts only)."
+    },
+    {
+      "id": "item-body-armor",
+      "name": "Body Armor",
+      "category": "Gear",
+      "price": 250,
+      "storeId": null,
+      "edition": null,
+      "verified": true,
+      "dataConfidence": "guide-reported",
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Confirmed priced example from Dexerto wiki (facts only)."
+    }
+  ]
+}

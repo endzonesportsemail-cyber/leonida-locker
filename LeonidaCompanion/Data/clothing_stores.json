@@ -1,0 +1,678 @@
+{
+  "version": 1,
+  "domain": "clothing_stores",
+  "sourceNote": "67 clothing stores verified Nov 26, 2026. Districts in brackets in the research brief (KeenGamer/GTA-Xtreme) are recorded as given. Same-brand branches share stock.",
+  "records": [
+    {
+      "id": "clothing-001",
+      "name": "Slinger",
+      "category": "Casual & Street",
+      "district": "Southside",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-002",
+      "name": "Slinger",
+      "category": "Casual & Street",
+      "district": "Peacock Bay",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-003",
+      "name": "Slinger",
+      "category": "Casual & Street",
+      "district": "Tequesta",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-004",
+      "name": "Slinger",
+      "category": "Casual & Street",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-005",
+      "name": "Suburban",
+      "category": "Casual & Street",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-006",
+      "name": "Urban Legendz",
+      "category": "Casual & Street",
+      "district": "Crosstown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-007",
+      "name": "Drip Drops",
+      "category": "Casual & Street",
+      "district": "La Perle",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-008",
+      "name": "Stock 305",
+      "category": "Casual & Street",
+      "district": "Stockyard",
+      "county": "Vice-Dale",
+      "edition": "Ultimate Edition",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-009",
+      "name": "Slinger",
+      "category": "Casual & Street",
+      "district": "Decor District",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-010",
+      "name": "This / That",
+      "category": "Casual & Street",
+      "district": "Decor District",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-011",
+      "name": "Slinger",
+      "category": "Casual & Street",
+      "district": "Ocean Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-012",
+      "name": "Mid",
+      "category": "Casual & Street",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-013",
+      "name": "This / That",
+      "category": "Casual & Street",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-014",
+      "name": "Mid",
+      "category": "Casual & Street",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-015",
+      "name": "This / That",
+      "category": "Casual & Street",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-016",
+      "name": "This / That",
+      "category": "Casual & Street",
+      "district": "Waning Sands",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-017",
+      "name": "Mid",
+      "category": "Casual & Street",
+      "district": "Waning Sands",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-018",
+      "name": "Alpha Sports",
+      "category": "Sportswear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-019",
+      "name": "Endzone",
+      "category": "Sportswear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-020",
+      "name": "Eris",
+      "category": "Sportswear",
+      "district": "Sahara Arena",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-021",
+      "name": "Alpha Sports",
+      "category": "Sportswear",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-022",
+      "name": "Endzone",
+      "category": "Sportswear",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-023",
+      "name": "Alpha Sports",
+      "category": "Sportswear",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-024",
+      "name": "Endzone",
+      "category": "Sportswear",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-025",
+      "name": "Alpha Sports",
+      "category": "Sportswear",
+      "district": "Ocean Beach 3",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-026",
+      "name": "Alpha Sports",
+      "category": "Sportswear",
+      "district": "Ocean Beach 4",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-027",
+      "name": "Endzone",
+      "category": "Sportswear",
+      "district": "Washington Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-028",
+      "name": "Alpha Sports",
+      "category": "Sportswear",
+      "district": "Waning Sands",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-029",
+      "name": "Nola",
+      "category": "Formal",
+      "district": "Capri",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-030",
+      "name": "Ferruccio Tucci",
+      "category": "Formal",
+      "district": "Capri",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-031",
+      "name": "Nola",
+      "category": "Formal",
+      "district": "Peacock Bay",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-032",
+      "name": "Nola",
+      "category": "Formal",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-033",
+      "name": "Ferruccio Tucci",
+      "category": "Formal",
+      "district": "Ocean Beach 1",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-034",
+      "name": "Nola",
+      "category": "Formal",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-035",
+      "name": "Ferruccio Tucci",
+      "category": "Formal",
+      "district": "Ocean Beach 2",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-036",
+      "name": "Nola",
+      "category": "Formal",
+      "district": "Decor District",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-037",
+      "name": "Ferruccio Tucci",
+      "category": "Formal",
+      "district": "Decor District",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-038",
+      "name": "Ferruccio Tucci",
+      "category": "Formal",
+      "district": "Waning Sands",
+      "county": "Leonard",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-039",
+      "name": "Leroy's",
+      "category": "Souvenir & Swimwear",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-040",
+      "name": "The Wonder Whale",
+      "category": "Souvenir & Swimwear",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-041",
+      "name": "Billie's Key Lento Gift Shop",
+      "category": "Souvenir & Swimwear",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-042",
+      "name": "Key Lento Kahuna",
+      "category": "Souvenir & Swimwear",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-043",
+      "name": "Lost Mines Souvenirs",
+      "category": "Souvenir & Swimwear",
+      "district": "Capri",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-044",
+      "name": "Souvenir Shop",
+      "category": "Souvenir & Swimwear",
+      "district": "Balsero",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-045",
+      "name": "Dollar Domain",
+      "category": "Souvenir & Swimwear",
+      "district": "Balsero",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-046",
+      "name": "Little Cuba Souvenir Store",
+      "category": "Souvenir & Swimwear",
+      "district": "Little Cuba",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-047",
+      "name": "Telegraphe",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-048",
+      "name": "Sea Swell Gifts",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-049",
+      "name": "Starboard Souvenirs",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-050",
+      "name": "Vice Style",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-051",
+      "name": "Sunshine Sally's",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-052",
+      "name": "Dock Ring Souvenirs",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-053",
+      "name": "Coquina Box",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-054",
+      "name": "Knick Knack Paddle Shack",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-055",
+      "name": "Island Gifts",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-056",
+      "name": "Washed Ashore Souvenirs",
+      "category": "Souvenir & Swimwear",
+      "district": "Downtown",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-057",
+      "name": "Coastal Souvenirs",
+      "category": "Souvenir & Swimwear",
+      "district": "Ocean Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-058",
+      "name": "De'luge Swimwear",
+      "category": "Souvenir & Swimwear",
+      "district": "Vice Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-059",
+      "name": "Larry's Lagoon",
+      "category": "Souvenir & Swimwear",
+      "district": "Vice Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-060",
+      "name": "Waves",
+      "category": "Souvenir & Swimwear",
+      "district": "Vice Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-061",
+      "name": "Gifts A GoGo",
+      "category": "Souvenir & Swimwear",
+      "district": "Vice Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-062",
+      "name": "Beach Please",
+      "category": "Souvenir & Swimwear",
+      "district": "Vice Beach",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-063",
+      "name": "Nifty Threads Island Wear",
+      "category": "Thrift",
+      "district": "Key Lento",
+      "county": "Mariana",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-064",
+      "name": "Hamlet Thrift",
+      "category": "Thrift",
+      "district": "Hamlet",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-065",
+      "name": "Aline's Thrift Store",
+      "category": "Thrift",
+      "district": "La Perle",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-066",
+      "name": "Dr Froogal",
+      "category": "Thrift",
+      "district": "Stockyard",
+      "county": "Vice-Dale",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    },
+    {
+      "id": "clothing-067",
+      "name": "Bargain World",
+      "category": "Thrift",
+      "district": "Port Gellhorn / Gellhorn International Raceway",
+      "county": "Kelly",
+      "verified": true,
+      "source": "Dexerto GTA VI wiki (plain facts only)",
+      "notes": "Same-brand branches share stock: one visit per brand covers it."
+    }
+  ]
+}
