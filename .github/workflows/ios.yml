@@ -50,7 +50,11 @@ jobs:
 
   build:
     name: Build (simulator, no signing)
-    runs-on: macos-latest
+    # Pinned to macos-15 (not macos-latest): the macos-latest arm64 pool
+    # repeatedly starved the job ("not acquired by Runner ... even after
+    # multiple attempts", cancelled after ~15 min queued, twice on 2026-11-26).
+    # macos-15 ships Xcode 16.x, which this project (objectVersion 77) needs.
+    runs-on: macos-15
     needs: validate-json
     steps:
       - uses: actions/checkout@v4
