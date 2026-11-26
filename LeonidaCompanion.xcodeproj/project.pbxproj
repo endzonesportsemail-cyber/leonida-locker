@@ -17,7 +17,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = clothing_items_sample.json;
-		path = Data/clothing_items_sample.json;
+		path = LeonidaCompanion/Data/clothing_items_sample.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	0D254E4EFDA43081D3006148 /* PBXGroup */ = {
@@ -34,7 +34,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = GarageView.swift;
-		path = Views/GarageView.swift;
+		path = LeonidaCompanion/Views/GarageView.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	1538AA2B5ABD7524778B41E3 /* PBXBuildFile */ = {
@@ -45,14 +45,14 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = gun_stores.json;
-		path = Data/gun_stores.json;
+		path = LeonidaCompanion/Data/gun_stores.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	1BD6100B75807532D9556B36 /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = weapons.json;
-		path = Data/weapons.json;
+		path = LeonidaCompanion/Data/weapons.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	1CE1C71CD1E9079143760EC3 /* PBXBuildFile */ = {
@@ -63,14 +63,14 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = LeonidaCompanionApp.swift;
-		path = App/LeonidaCompanionApp.swift;
+		path = LeonidaCompanion/App/LeonidaCompanionApp.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	1FE2DBFBEFDC9B86A0E34FEB /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = AboutView.swift;
-		path = Views/AboutView.swift;
+		path = LeonidaCompanion/Views/AboutView.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	20DA68D88C6610126CC35AFE /* PBXSourcesBuildPhase */ = {
@@ -102,14 +102,14 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = AppConfig.swift;
-		path = App/AppConfig.swift;
+		path = LeonidaCompanion/App/AppConfig.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	2662BDBAFBFAE6695539136B /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = StoreView.swift;
-		path = Views/StoreView.swift;
+		path = LeonidaCompanion/Views/StoreView.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	272D05847EFD2D789CF897D7 /* PBXBuildFile */ = {
@@ -124,7 +124,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = ContentView.swift;
-		path = App/ContentView.swift;
+		path = LeonidaCompanion/App/ContentView.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	2F552E15B847CD177A542197 /* PBXBuildFile */ = {
@@ -135,7 +135,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = clothing_stores.json;
-		path = Data/clothing_stores.json;
+		path = LeonidaCompanion/Data/clothing_stores.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	3670831C61F9A4085D892478 /* PBXProject */ = {
@@ -184,7 +184,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = MapView.swift;
-		path = Views/MapView.swift;
+		path = LeonidaCompanion/Views/MapView.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	4EE7235236F9735115F90C77 /* PBXBuildFile */ = {
@@ -199,7 +199,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = OnboardingView.swift;
-		path = Views/OnboardingView.swift;
+		path = LeonidaCompanion/Views/OnboardingView.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	5C6E68DF723F2B96488CE6A1 /* PBXGroup */ = {
@@ -256,7 +256,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = SharedViews.swift;
-		path = Views/SharedViews.swift;
+		path = LeonidaCompanion/Views/SharedViews.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	6DDD26A952A84620544F8D5C /* PBXBuildFile */ = {
@@ -315,14 +315,14 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = FavoritesStore.swift;
-		path = Services/FavoritesStore.swift;
+		path = LeonidaCompanion/Services/FavoritesStore.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	8172E32526E7C6406E9E2DAC /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = folder.assetcatalog;
 		name = Assets.xcassets;
-		path = Resources/Assets.xcassets;
+		path = LeonidaCompanion/Resources/Assets.xcassets;
 		sourceTree = SOURCE_ROOT;
 	};
 	8383433F82A8D6763DA3F941 /* XCBuildConfiguration */ = {
@@ -346,7 +346,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = vehicle_mods.json;
-		path = Data/vehicle_mods.json;
+		path = LeonidaCompanion/Data/vehicle_mods.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	8B85AC4830153E13DFE56232 /* PBXGroup */ = {
@@ -371,14 +371,14 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = footwear_stores.json;
-		path = Data/footwear_stores.json;
+		path = LeonidaCompanion/Data/footwear_stores.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	925C8959267970C45BBDB879 /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = map_pins.json;
-		path = Data/map_pins.json;
+		path = LeonidaCompanion/Data/map_pins.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	936AE5A82368C4D9CA4E10F8 /* XCConfigurationList */ = {
@@ -481,14 +481,14 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = salons.json;
-		path = Data/salons.json;
+		path = LeonidaCompanion/Data/salons.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	B7D3A580C5E76CCD8E6BB552 /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = text.xml;
 		name = PrivacyInfo.xcprivacy;
-		path = Resources/PrivacyInfo.xcprivacy;
+		path = LeonidaCompanion/Resources/PrivacyInfo.xcprivacy;
 		sourceTree = SOURCE_ROOT;
 	};
 	BA1D07B98B936E90DB005D97 /* PBXBuildFile */ = {
@@ -499,7 +499,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = SavedView.swift;
-		path = Views/SavedView.swift;
+		path = LeonidaCompanion/Views/SavedView.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	BEF2D2205783C2906DBCF5D9 /* PBXGroup */ = {
@@ -541,7 +541,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = mod_shops.json;
-		path = Data/mod_shops.json;
+		path = LeonidaCompanion/Data/mod_shops.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	E387F19FE3A80BC1AA881BB4 /* PBXGroup */ = {
@@ -556,21 +556,21 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = AdMobSlots.swift;
-		path = Services/AdMobSlots.swift;
+		path = LeonidaCompanion/Services/AdMobSlots.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	E567C1921025699BB3A473EB /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = DataService.swift;
-		path = Services/DataService.swift;
+		path = LeonidaCompanion/Services/DataService.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	E5A793515958D77F0B57BB76 /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = tattoo_parlors.json;
-		path = Data/tattoo_parlors.json;
+		path = LeonidaCompanion/Data/tattoo_parlors.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	EDB0ACF3074F9CB8288DB82C /* PBXResourcesBuildPhase */ = {
@@ -602,14 +602,14 @@
 		isa = PBXFileReference;
 		lastKnownFileType = text.json;
 		name = vehicles.json;
-		path = Data/vehicles.json;
+		path = LeonidaCompanion/Data/vehicles.json;
 		sourceTree = SOURCE_ROOT;
 	};
 	F7FBB85995DA4028B715E800 /* PBXFileReference */ = {
 		isa = PBXFileReference;
 		lastKnownFileType = file.storyboard;
 		name = LaunchScreen.storyboard;
-		path = Resources/LaunchScreen.storyboard;
+		path = LeonidaCompanion/Resources/LaunchScreen.storyboard;
 		sourceTree = SOURCE_ROOT;
 	};
 	F92A85837C35702D509927B4 /* PBXGroup */ = {
@@ -628,7 +628,7 @@
 		isa = PBXFileReference;
 		lastKnownFileType = sourcecode.swift;
 		name = Models.swift;
-		path = Models/Models.swift;
+		path = LeonidaCompanion/Models/Models.swift;
 		sourceTree = SOURCE_ROOT;
 	};
 	};
