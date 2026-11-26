@@ -16,7 +16,7 @@ struct OnboardingView: View {
                     VStack(alignment: .leading, spacing: 8) {
                         Image(systemName: "map.fill")
                             .font(.system(size: 48))
-                            .foregroundStyle(.accent)
+                            .foregroundStyle(Color.accentColor)
                         Text(AppConfig.appDisplayName)
                             .font(.largeTitle.weight(.bold))
                         Text(AppConfig.appSubtitle)

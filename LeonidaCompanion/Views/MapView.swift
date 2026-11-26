@@ -41,7 +41,7 @@ struct MapTabView: View {
                                     .padding(.horizontal, 10)
                                     .padding(.vertical, 6)
                                     .background(selectedKinds.contains(kind) ? Color.accentColor.opacity(0.2) : Color.secondary.opacity(0.12))
-                                    .foregroundStyle(selectedKinds.contains(kind) ? .accent : .secondary)
+                                    .foregroundStyle(selectedKinds.contains(kind) ? Color.accentColor : .secondary)
                                     .clipShape(Capsule())
                             }
                             .buttonStyle(.plain)
@@ -82,7 +82,7 @@ struct MapTabView: View {
                     } label: {
                         HStack {
                             Image(systemName: pin.kind.systemImage)
-                                .foregroundStyle(.accent)
+                                .foregroundStyle(Color.accentColor)
                                 .frame(width: 24)
                             VStack(alignment: .leading, spacing: 2) {
                                 Text(pin.title)
@@ -284,7 +284,7 @@ struct PinDetailView: View {
                     HStack {
                         Image(systemName: pin.kind.systemImage)
                             .font(.title2)
-                            .foregroundStyle(.accent)
+                            .foregroundStyle(Color.accentColor)
                         VStack(alignment: .leading) {
                             Text(pin.title).font(.headline)
                             Text("\(pin.kind.label) · \(pin.district ?? "Leonida")")

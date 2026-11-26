@@ -179,7 +179,7 @@ struct SavedTabView: View {
                 ForEach(pins) { pin in
                     HStack {
                         Image(systemName: pin.kind.systemImage)
-                            .foregroundStyle(.accent)
+                            .foregroundStyle(Color.accentColor)
                         VStack(alignment: .leading, spacing: 2) {
                             Text(pin.title).font(.subheadline)
                             Text(pin.kind.label)
